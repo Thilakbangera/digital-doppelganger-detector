@@ -123,11 +123,6 @@ git lfs pull
 
 ---
 
-## ✨ Demo Screenshot
-
-*(Insert your app screenshot here)*
-
----
 
 ## 📚 Citation / References
 
@@ -142,19 +137,3 @@ git lfs pull
 
 Pull requests, suggestions, and issues are welcome! Please open an issue to discuss any major changes.
 
----
-
-## 📜 License
-
-MIT License. See `LICENSE` file for more details.
-
-```
-
----
-
-Would you like me to:
-- Add this directly into your `README.md`?
-- Customize it with your **model names**, **screenshot**, or **credit**?
-
-Let me know and I’ll update accordingly!
-```
