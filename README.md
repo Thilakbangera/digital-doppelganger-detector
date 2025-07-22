@@ -34,7 +34,7 @@ digital-doppelganger-detector/
 │       └── predict\_folder.py       # Main script for batch video prediction
 ├── utils/
 │   └── predict.py                   # Helper for handling multi-modal predictions
-├── output/                          # (Optional) Stores prediction output videos
+├── output/                          # Contains the demo video (demo.mp4)
 
 ````
 
@@ -123,6 +123,16 @@ git lfs pull
 
 ---
 
+## 🎬 Demo Video
+
+Curious how it works? Check out the full walkthrough video:
+
+📁 The demo video is included in the `output/` directory:  
+**`output/demo.mp4`**
+
+> 🎥 This video showcases real-time detection across text, image, and video formats.
+
+---
 
 ## 📚 Citation / References
 
